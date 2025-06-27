@@ -4,9 +4,9 @@
   "settings": {
     "width": 3000,
     "height": 3000,
-    "scrollTop": -517.528,
-    "scrollLeft": -1444.4648,
-    "zoomLevel": 0.49,
+    "scrollTop": -936.5327,
+    "scrollLeft": -55.3242,
+    "zoomLevel": 1,
     "show": 431,
     "database": 4,
     "databaseName": "AP",
@@ -40,7 +40,11 @@
       "o3XFKwObereatOjWUxbJ7",
       "Lf29v5N_o1hdafUtXZq4f",
       "DuBbAzLNWheBDazlkCgA9",
-      "332LuJfgX6Vj2D44vaLuq"
+      "332LuJfgX6Vj2D44vaLuq",
+      "PUr9mvnjWIVNsZYXb1VL4",
+      "5SsR3vglTfMqczP0uwwPz",
+      "4zzRwNw_4WOe3ZN3UBXOt",
+      "3iqKfIWct68vyA7DWx_Iy"
     ],
     "relationshipIds": [
       "7NY0bWNNR_Ut90dOIx--P",
@@ -386,6 +390,125 @@
         "meta": {
           "updateAt": 1750818555634,
           "createAt": 1750753576745
+        }
+      },
+      "PUr9mvnjWIVNsZYXb1VL4": {
+        "id": "PUr9mvnjWIVNsZYXb1VL4",
+        "name": "CATS_TMP_APPROVAL",
+        "comment": "카드승인정보",
+        "columnIds": [
+          "UTosU4-B-YKG9AgeMTVb3",
+          "fO4lc58VH42AUTYemYDmX",
+          "dv8ufvX6bd8fRklVMwcT1",
+          "6AKhIWStvE-O2Ueng24Aq"
+        ],
+        "seqColumnIds": [
+          "UTosU4-B-YKG9AgeMTVb3",
+          "fO4lc58VH42AUTYemYDmX",
+          "dv8ufvX6bd8fRklVMwcT1",
+          "6AKhIWStvE-O2Ueng24Aq",
+          "cxklmS8uuu1aSuJB8McRJ"
+        ],
+        "ui": {
+          "x": 295.2472,
+          "y": 1300.6422,
+          "zIndex": 320,
+          "widthName": 120,
+          "widthComment": 74,
+          "color": "#009FFF"
+        },
+        "meta": {
+          "updateAt": 1750982982735,
+          "createAt": 1750982586997
+        }
+      },
+      "5SsR3vglTfMqczP0uwwPz": {
+        "id": "5SsR3vglTfMqczP0uwwPz",
+        "name": "CATS_TMP_ACQUIRE",
+        "comment": "카드매입정보",
+        "columnIds": [
+          "lpJmQn8ViDY7h23EdDpaV",
+          "0T9Np2Uu-cbCEzGQ5Lxom",
+          "dOTkhmiwae8Iqb6S54KyS"
+        ],
+        "seqColumnIds": [
+          "lpJmQn8ViDY7h23EdDpaV",
+          "0T9Np2Uu-cbCEzGQ5Lxom",
+          "dOTkhmiwae8Iqb6S54KyS",
+          "t8zz89gBs8CFtaTUEKrPD"
+        ],
+        "ui": {
+          "x": 807,
+          "y": 1302.5327,
+          "zIndex": 332,
+          "widthName": 111,
+          "widthComment": 74,
+          "color": "#0083FF"
+        },
+        "meta": {
+          "updateAt": 1750982986220,
+          "createAt": 1750982667204
+        }
+      },
+      "4zzRwNw_4WOe3ZN3UBXOt": {
+        "id": "4zzRwNw_4WOe3ZN3UBXOt",
+        "name": "CATS_TMP_BILL",
+        "comment": "카드청구정보",
+        "columnIds": [
+          "CJQ8Ny5RjcqsgCRm8EXY3",
+          "R1DzCtkfJHf--bJiypTyF",
+          "KIHcEY8DPSD-ppFrLa9et"
+        ],
+        "seqColumnIds": [
+          "CJQ8Ny5RjcqsgCRm8EXY3",
+          "R1DzCtkfJHf--bJiypTyF",
+          "KIHcEY8DPSD-ppFrLa9et"
+        ],
+        "ui": {
+          "x": 1236,
+          "y": 1302.5327,
+          "zIndex": 336,
+          "widthName": 84,
+          "widthComment": 74,
+          "color": "#009FFF"
+        },
+        "meta": {
+          "updateAt": 1750982991638,
+          "createAt": 1750982718325
+        }
+      },
+      "3iqKfIWct68vyA7DWx_Iy": {
+        "id": "3iqKfIWct68vyA7DWx_Iy",
+        "name": "XXC_TAX_CARD_비용부서",
+        "comment": "카드집계",
+        "columnIds": [
+          "59Iydaot2WBs67mD-GWnn",
+          "zq1_8Iupge9QG3rOQjQ9Z",
+          "zc-yLkHDrdYhfuinpGawU",
+          "ZPowocZP0TgoyEUiPYfvw",
+          "dzBNoe8CUeVHlR-KZRndB",
+          "bKwGSH3DekmQDDQlty7LP"
+        ],
+        "seqColumnIds": [
+          "59Iydaot2WBs67mD-GWnn",
+          "zq1_8Iupge9QG3rOQjQ9Z",
+          "zc-yLkHDrdYhfuinpGawU",
+          "ZPowocZP0TgoyEUiPYfvw",
+          "dzBNoe8CUeVHlR-KZRndB",
+          "bKwGSH3DekmQDDQlty7LP",
+          "b-c_wZB6ePnAg2wmV0y-9"
+        ],
+        "ui": {
+          "x": 1688.9056,
+          "y": 1300.5327,
+          "zIndex": 344,
+          "widthName": 137,
+          "widthComment": 60,
+          "color": "#00C6FF"
+        },
+        "meta": {
+          "updateAt": 1750983092627,
+          "createAt": 1750982844368
         }
       }
     },
@@ -1708,6 +1831,386 @@
         "meta": {
           "updateAt": 1750835390895,
           "createAt": 1750835385884
+        }
+      },
+      "UTosU4-B-YKG9AgeMTVb3": {
+        "id": "UTosU4-B-YKG9AgeMTVb3",
+        "tableId": "PUr9mvnjWIVNsZYXb1VL4",
+        "name": "CARDNO",
+        "comment": "카드번호",
+        "dataType": "VARCHAR",
+        "default": "",
+        "options": 8,
+        "ui": {
+          "keys": 0,
+          "widthName": 60,
+          "widthComment": 60,
+          "widthDataType": 60,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1750982622903,
+          "createAt": 1750982610580
+        }
+      },
+      "fO4lc58VH42AUTYemYDmX": {
+        "id": "fO4lc58VH42AUTYemYDmX",
+        "tableId": "PUr9mvnjWIVNsZYXb1VL4",
+        "name": "APPRNO",
+        "comment": "승인번호",
+        "dataType": "VARCHAR",
+        "default": "",
+        "options": 0,
+        "ui": {
+          "keys": 0,
+          "widthName": 60,
+          "widthComment": 60,
+          "widthDataType": 60,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1750982636342,
+          "createAt": 1750982625957
+        }
+      },
+      "dv8ufvX6bd8fRklVMwcT1": {
+        "id": "dv8ufvX6bd8fRklVMwcT1",
+        "tableId": "PUr9mvnjWIVNsZYXb1VL4",
+        "name": "TRANS_DATE",
+        "comment": "승인일자",
+        "dataType": "DATE",
+        "default": "",
+        "options": 0,
+        "ui": {
+          "keys": 0,
+          "widthName": 71,
+          "widthComment": 60,
+          "widthDataType": 60,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1750982648180,
+          "createAt": 1750982639000
+        }
+      },
+      "6AKhIWStvE-O2Ueng24Aq": {
+        "id": "6AKhIWStvE-O2Ueng24Aq",
+        "tableId": "PUr9mvnjWIVNsZYXb1VL4",
+        "name": "CANCELLED_DATE",
+        "comment": "취소일자",
+        "dataType": "DATE",
+        "default": "",
+        "options": 0,
+        "ui": {
+          "keys": 0,
+          "widthName": 98,
+          "widthComment": 60,
+          "widthDataType": 60,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1750982659530,
+          "createAt": 1750982645192
+        }
+      },
+      "cxklmS8uuu1aSuJB8McRJ": {
+        "id": "cxklmS8uuu1aSuJB8McRJ",
+        "tableId": "PUr9mvnjWIVNsZYXb1VL4",
+        "name": "",
+        "comment": "",
+        "dataType": "",
+        "default": "",
+        "options": 0,
+        "ui": {
+          "keys": 0,
+          "widthName": 60,
+          "widthComment": 60,
+          "widthDataType": 60,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1750982659530,
+          "createAt": 1750982659530
+        }
+      },
+      "lpJmQn8ViDY7h23EdDpaV": {
+        "id": "lpJmQn8ViDY7h23EdDpaV",
+        "tableId": "5SsR3vglTfMqczP0uwwPz",
+        "name": "CARDNO",
+        "comment": "카드번호",
+        "dataType": "VARCHAR",
+        "default": "",
+        "options": 8,
+        "ui": {
+          "keys": 0,
+          "widthName": 60,
+          "widthComment": 60,
+          "widthDataType": 60,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1750982697704,
+          "createAt": 1750982685889
+        }
+      },
+      "0T9Np2Uu-cbCEzGQ5Lxom": {
+        "id": "0T9Np2Uu-cbCEzGQ5Lxom",
+        "tableId": "5SsR3vglTfMqczP0uwwPz",
+        "name": "APPRNO",
+        "comment": "승인번호",
+        "dataType": "VARCHAR",
+        "default": "",
+        "options": 0,
+        "ui": {
+          "keys": 0,
+          "widthName": 60,
+          "widthComment": 60,
+          "widthDataType": 60,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1750982707270,
+          "createAt": 1750982695480
+        }
+      },
+      "dOTkhmiwae8Iqb6S54KyS": {
+        "id": "dOTkhmiwae8Iqb6S54KyS",
+        "tableId": "5SsR3vglTfMqczP0uwwPz",
+        "name": "APPRDATE",
+        "comment": "승인일자",
+        "dataType": "DATE",
+        "default": "",
+        "options": 0,
+        "ui": {
+          "keys": 0,
+          "widthName": 60,
+          "widthComment": 60,
+          "widthDataType": 60,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1750982715153,
+          "createAt": 1750982707270
+        }
+      },
+      "t8zz89gBs8CFtaTUEKrPD": {
+        "id": "t8zz89gBs8CFtaTUEKrPD",
+        "tableId": "5SsR3vglTfMqczP0uwwPz",
+        "name": "",
+        "comment": "",
+        "dataType": "",
+        "default": "",
+        "options": 0,
+        "ui": {
+          "keys": 0,
+          "widthName": 60,
+          "widthComment": 60,
+          "widthDataType": 60,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1750982715153,
+          "createAt": 1750982715153
+        }
+      },
+      "CJQ8Ny5RjcqsgCRm8EXY3": {
+        "id": "CJQ8Ny5RjcqsgCRm8EXY3",
+        "tableId": "4zzRwNw_4WOe3ZN3UBXOt",
+        "name": "CARDNO",
+        "comment": "카드번호",
+        "dataType": "VARCHAR",
+        "default": "",
+        "options": 8,
+        "ui": {
+          "keys": 0,
+          "widthName": 60,
+          "widthComment": 60,
+          "widthDataType": 60,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1750982752855,
+          "createAt": 1750982732299
+        }
+      },
+      "R1DzCtkfJHf--bJiypTyF": {
+        "id": "R1DzCtkfJHf--bJiypTyF",
+        "tableId": "4zzRwNw_4WOe3ZN3UBXOt",
+        "name": "APPRNO",
+        "comment": "승인번호",
+        "dataType": "VARCHAR",
+        "default": "",
+        "options": 0,
+        "ui": {
+          "keys": 0,
+          "widthName": 60,
+          "widthComment": 60,
+          "widthDataType": 60,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1750982762498,
+          "createAt": 1750982753919
+        }
+      },
+      "KIHcEY8DPSD-ppFrLa9et": {
+        "id": "KIHcEY8DPSD-ppFrLa9et",
+        "tableId": "4zzRwNw_4WOe3ZN3UBXOt",
+        "name": "SETTDATE",
+        "comment": "청구일자",
+        "dataType": "DATE",
+        "default": "",
+        "options": 0,
+        "ui": {
+          "keys": 0,
+          "widthName": 60,
+          "widthComment": 60,
+          "widthDataType": 60,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1750982808155,
+          "createAt": 1750982763119
+        }
+      },
+      "59Iydaot2WBs67mD-GWnn": {
+        "id": "59Iydaot2WBs67mD-GWnn",
+        "tableId": "3iqKfIWct68vyA7DWx_Iy",
+        "name": "CARD_NUM",
+        "comment": "카드번호",
+        "dataType": "VARCHAR",
+        "default": "",
+        "options": 10,
+        "ui": {
+          "keys": 1,
+          "widthName": 66,
+          "widthComment": 60,
+          "widthDataType": 60,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1750982887127,
+          "createAt": 1750982873574
+        }
+      },
+      "zq1_8Iupge9QG3rOQjQ9Z": {
+        "id": "zq1_8Iupge9QG3rOQjQ9Z",
+        "tableId": "3iqKfIWct68vyA7DWx_Iy",
+        "name": "APPROVE_DATE",
+        "comment": "승인일자",
+        "dataType": "DATE",
+        "default": "",
+        "options": 0,
+        "ui": {
+          "keys": 0,
+          "widthName": 85,
+          "widthComment": 60,
+          "widthDataType": 60,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1750982898039,
+          "createAt": 1750982885131
+        }
+      },
+      "zc-yLkHDrdYhfuinpGawU": {
+        "id": "zc-yLkHDrdYhfuinpGawU",
+        "tableId": "3iqKfIWct68vyA7DWx_Iy",
+        "name": "APPROVE_NUM",
+        "comment": "승인번호",
+        "dataType": "VARCHAR",
+        "default": "",
+        "options": 0,
+        "ui": {
+          "keys": 0,
+          "widthName": 85,
+          "widthComment": 60,
+          "widthDataType": 60,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1750982910568,
+          "createAt": 1750982898556
+        }
+      },
+      "ZPowocZP0TgoyEUiPYfvw": {
+        "id": "ZPowocZP0TgoyEUiPYfvw",
+        "tableId": "3iqKfIWct68vyA7DWx_Iy",
+        "name": "GUBUN",
+        "comment": "구분",
+        "dataType": "VARCHAR",
+        "default": "",
+        "options": 0,
+        "ui": {
+          "keys": 0,
+          "widthName": 60,
+          "widthComment": 60,
+          "widthDataType": 60,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1750982930975,
+          "createAt": 1750982911002
+        }
+      },
+      "dzBNoe8CUeVHlR-KZRndB": {
+        "id": "dzBNoe8CUeVHlR-KZRndB",
+        "tableId": "3iqKfIWct68vyA7DWx_Iy",
+        "name": "카드사",
+        "comment": "카드사",
+        "dataType": "VARCHAR",
+        "default": "",
+        "options": 0,
+        "ui": {
+          "keys": 0,
+          "widthName": 60,
+          "widthComment": 60,
+          "widthDataType": 60,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1750982946337,
+          "createAt": 1750982931543
+        }
+      },
+      "bKwGSH3DekmQDDQlty7LP": {
+        "id": "bKwGSH3DekmQDDQlty7LP",
+        "tableId": "3iqKfIWct68vyA7DWx_Iy",
+        "name": "적요",
+        "comment": "적요",
+        "dataType": "VARCHAR",
+        "default": "",
+        "options": 0,
+        "ui": {
+          "keys": 0,
+          "widthName": 60,
+          "widthComment": 60,
+          "widthDataType": 60,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1750982961001,
+          "createAt": 1750982946814
+        }
+      },
+      "b-c_wZB6ePnAg2wmV0y-9": {
+        "id": "b-c_wZB6ePnAg2wmV0y-9",
+        "tableId": "3iqKfIWct68vyA7DWx_Iy",
+        "name": "",
+        "comment": "",
+        "dataType": "",
+        "default": "",
+        "options": 0,
+        "ui": {
+          "keys": 0,
+          "widthName": 60,
+          "widthComment": 60,
+          "widthDataType": 60,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1750982959022,
+          "createAt": 1750982959022
         }
       }
     },
